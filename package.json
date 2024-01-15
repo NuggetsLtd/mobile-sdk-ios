@@ -1,0 +1,12 @@
+{
+  "name": "RNSDK",
+  "version": "1.1.0",
+  "description": "Description of RNSDK",
+  "author": "Nuggets Ltd",
+  "homepage": "https://github.com/nuggetsltd/react-native-sdk-example#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nuggetsltd/react-native-sdk-example.git"
+  }
+}
