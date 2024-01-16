@@ -1,12 +1,14 @@
 {
-  "name": "RNSDK",
-  "version": "1.1.0",
-  "description": "Description of RNSDK",
-  "author": "Nuggets Ltd",
+  "name": "mobile-sdk-ios",
+  "version": "0.1.0",
+  "description": "Mobile (iOS) SDK for interaction with the Nuggets Platform",
+  "author": {
+    "name": "Nuggets Ltd",
+    "email": "support@nuggets.life",
+    "url": "http://nuggets.life"
+  },
   "homepage": "https://github.com/nuggetsltd/react-native-sdk-example#readme",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:nuggetsltd/react-native-sdk-example.git"
-  }
+  "repository": "git@github.com:nuggetsltd/react-native-sdk-example.git",
+  "main": "index.js"
 }
