@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/RNSDK-Swift.h</key>
+		<data>
+		1QeIs/Eewd9jpP2tGww9KonXxH0=
+		</data>
 		<key>Headers/RNSDK.h</key>
 		<data>
 		0KsSeG+wu3y+FPyfZH7NYhAnfBQ=
@@ -12,9 +16,29 @@
 		<data>
 		UW4qGyYOVh+N+5PA7QfaZaNq78M=
 		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		3Bbu97YrJMu0dvwBq6/+8eCkxT4=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		KmC6W7stEr0jQmC5iH4u1fSS3f0=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		jD0ggG9uhiI4IAjGzquvTdVQnVA=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		KmC6W7stEr0jQmC5iH4u1fSS3f0=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		6d95JdxkOGv8v4iLskEKylhJQKM=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Es5036qEtpa1x48/rBvdpNPPqAs=
+		+/lvfovwMBR4qmhT1WVgfFYFWNU=
 		</data>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
@@ -680,6 +704,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/RNSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VgtwDimwMYglQzZdWCh/Jvn2p8PXb0guSn4YYobvn+8=
+			</data>
+		</dict>
 		<key>Headers/RNSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -687,11 +718,46 @@
 			8vY6Yehj9crZ0jKOL15PAaomClOpUR5rh3ihcIxmErM=
 			</data>
 		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gFIfJkpZS76dBdU7wXZEO8j6pwiAP33adxX9mhs3l+M=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m/KRZe914wLqP3u0T2uOt4ZkzCNejgpu7LkvxoA3b7U=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jCLN8kl+jsuoYPxaSB6O9Xp9MR+EFAg1gc00e3CFCFg=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m/KRZe914wLqP3u0T2uOt4ZkzCNejgpu7LkvxoA3b7U=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aD4TIBFa+3bcu8Bmbv3uOyeViRkFUmi9c9Wogo1GqzQ=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DObdumIc6WXFk6BzLXsXkKaVa46L8G7LIHPOIACr00E=
+			QdyXezvonuP/eYxQWxzKLG2Ao35ocEeOfv6CNUKEhHs=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/Info.plist</key>

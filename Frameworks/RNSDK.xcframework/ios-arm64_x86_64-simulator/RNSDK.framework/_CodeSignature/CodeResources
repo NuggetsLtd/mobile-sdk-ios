@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/RNSDK-Swift.h</key>
+		<data>
+		AMOJyeKtBbPE4o197roWGH0XMng=
+		</data>
 		<key>Headers/RNSDK.h</key>
 		<data>
 		0KsSeG+wu3y+FPyfZH7NYhAnfBQ=
@@ -12,9 +16,49 @@
 		<data>
 		VQtZ9PcmucgEi1delVipZbeD/h0=
 		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		3Bbu97YrJMu0dvwBq6/+8eCkxT4=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		pRJQDRoTuMokttUJ5WIvuf5hdmI=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		k+tke3BEI2PAcgrCSOLZdfzkfL8=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		pRJQDRoTuMokttUJ5WIvuf5hdmI=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		w0PByMR5OmHUaUvljPmRnIVdZ/c=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		3Bbu97YrJMu0dvwBq6/+8eCkxT4=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		00aRSwcKcyQvFU0TX1LyijDeCgg=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		MJkk0nM6/exNMSJMDP2IfrMBo/A=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		00aRSwcKcyQvFU0TX1LyijDeCgg=
+		</data>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		fsbD7muLrKNUoOVKfi3qAHd5tkk=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Es5036qEtpa1x48/rBvdpNPPqAs=
+		+/lvfovwMBR4qmhT1WVgfFYFWNU=
 		</data>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
@@ -680,6 +724,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/RNSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D7aWoM0vZF34Z6Vp6ceT7Csv+jWKrM1tMEpN4+pW59U=
+			</data>
+		</dict>
 		<key>Headers/RNSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -687,11 +738,81 @@
 			8vY6Yehj9crZ0jKOL15PAaomClOpUR5rh3ihcIxmErM=
 			</data>
 		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gFIfJkpZS76dBdU7wXZEO8j6pwiAP33adxX9mhs3l+M=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ci9YpE84Jzp7ckI1a2jf9UIqIcPiu53BK0oIsVRzgcI=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			keCBaJfsUX5Vdtg5vEZ/iF9m1T0+ib47uwUnOR8LMY4=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ci9YpE84Jzp7ckI1a2jf9UIqIcPiu53BK0oIsVRzgcI=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pPEK64dHCcHT8Wpq9KXHcUr0eavjFaPQNwe3SYkJWio=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gFIfJkpZS76dBdU7wXZEO8j6pwiAP33adxX9mhs3l+M=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O0Qj68HpLXZmn+KBssrrpr1I0CwTePpAC7WYw/iyiQE=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kkOGm2V33GOaw54sYGCp2/sq4GMo7/dz5Ka3zsM9PII=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O0Qj68HpLXZmn+KBssrrpr1I0CwTePpAC7WYw/iyiQE=
+			</data>
+		</dict>
+		<key>Modules/RNSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hJtchrg1PHullSuSiOowRy0wO3R+ZAMIZ6YRsWaZIrE=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DObdumIc6WXFk6BzLXsXkKaVa46L8G7LIHPOIACr00E=
+			QdyXezvonuP/eYxQWxzKLG2Ao35ocEeOfv6CNUKEhHs=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
