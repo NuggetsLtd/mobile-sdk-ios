@@ -15,12 +15,12 @@ This SDK provides an Identity Wallet for Self-Sovereign Identity (SSI).
 1. Install [CocoaPods](https://cocoapods.org/)
 2. Initialise CocoaPods: `pod init`
   
-### Install `RNSDK` dependency
+### Install `NuggetsSDK` dependency
 1. Add SDK dependency to your _Podfile_:
     ```pod
-    pod 'RNSDK', :git => 'https://github.com/NuggetsLtd/mobile-sdk-ios.git', :tag => 'v1.1.0'
+    pod 'NuggetsSDK', :git => 'https://github.com/NuggetsLtd/mobile-sdk-ios.git', :tag => 'v1.1.0'
     ```
 2. Download & install packages:
    ```pod
-    pod install
+    pod install --repo-update
    ```

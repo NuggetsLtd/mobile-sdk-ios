@@ -1,0 +1,6 @@
+framework module NuggetsSDK {
+  umbrella header "NuggetsSDK.h"
+  export *
+
+  module * { export * }
+}
