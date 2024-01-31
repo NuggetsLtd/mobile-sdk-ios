@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ysWrhIOsiPktvCbyBwqcZdtzwvY=
+		/0AAP6kaBxWlkfcRGekPKbYbLpM=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ITgGVRt+ZhFanojZZYMV8bS5Xs4=
+		LNi9T2nT8ocVA/SS2EjeVj2Vo50=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ITgGVRt+ZhFanojZZYMV8bS5Xs4=
+		LNi9T2nT8ocVA/SS2EjeVj2Vo50=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DMaXh6glcw6LpfI+WACBs26zqnM=
+		QvqAJybb/BQ4CS3T6YBkiG/fgg0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -722,14 +722,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7S6/7GqyT7Gcnx1KsmYoNSAEMeLAqkL+FxZYgSyeDs=
+			HI2m/JkJHPy+QTTqpXcsVjbNpEhztonXvfzklKiKNHk=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fq601Fcq9w4mYRO45pcxTlrAVt8af0TWAXAUQ5WgsYI=
+			tnJ2ypHMeFknnSWnRkZJ8uUYBW4P4M7VVXNQ7/ivt7c=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -743,14 +743,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fq601Fcq9w4mYRO45pcxTlrAVt8af0TWAXAUQ5WgsYI=
+			tnJ2ypHMeFknnSWnRkZJ8uUYBW4P4M7VVXNQ7/ivt7c=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H6SwlIGN8E+I+vuz82ZuycCuDn0uJ9mEsGaVW3fg+nI=
+			Vr0WjGoSkAgM2oQRwyMqtH/AxC4ef5LC88eLjsJsisw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
