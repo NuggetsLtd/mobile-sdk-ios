@@ -42,7 +42,6 @@
             "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8loadViewyyF",
             "moduleName": "NuggetsSDK",
             "overriding": true,
-            "isOpen": true,
             "objc_name": "loadView",
             "declAttributes": [
               "Dynamic",
@@ -229,5 +228,27 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 327,
+      "length": 39,
+      "value": "\"NuggetsSDK.bundle\/nuggetssdk.jsbundle\""
+    },
+    {
+      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 12,
+      "value": "\"NuggetsSDK\""
+    },
+    {
+      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "Dictionary",
+      "offset": 472,
+      "length": 3,
+      "value": "[]"
+    }
+  ]
 }
