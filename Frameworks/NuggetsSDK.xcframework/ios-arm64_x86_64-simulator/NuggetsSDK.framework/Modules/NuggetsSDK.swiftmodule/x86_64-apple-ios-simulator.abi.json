@@ -230,21 +230,21 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "filePath": "\/Users\/aml\/src\/nuggets-mobile\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 327,
       "length": 39,
       "value": "\"NuggetsSDK.bundle\/nuggetssdk.jsbundle\""
     },
     {
-      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "filePath": "\/Users\/aml\/src\/nuggets-mobile\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 12,
       "value": "\"NuggetsSDK\""
     },
     {
-      "filePath": "\/Users\/aml\/src\/mobile-sdk-3\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "filePath": "\/Users\/aml\/src\/nuggets-mobile\/NuggetsMobile\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
       "kind": "Dictionary",
       "offset": 472,
       "length": 3,

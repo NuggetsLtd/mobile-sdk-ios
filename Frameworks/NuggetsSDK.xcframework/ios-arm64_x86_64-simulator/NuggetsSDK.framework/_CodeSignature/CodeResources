@@ -10,51 +10,51 @@
 		</data>
 		<key>Headers/NuggetsSDK.h</key>
 		<data>
-		5VTwjuwWOYu58bqjQSLjteTOWMg=
+		jQF9bfvfgCkHtCZ+BVAkHnG/ZIs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OPyp5lH+O4Mkcoo+N7DPQHdFTts=
+		zlbvvZ0r5/eqLlxxI9MAFd41M0U=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ysWrhIOsiPktvCbyBwqcZdtzwvY=
+		naIsk5DV0JcRQ/yLJU55VGZYw3w=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bMzwxSIRF3+BlnxbSn3GTTIUQJc=
+		EDdxLqFsrOvonyTHTvQWo3OUWsw=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JS4BnLNe9eATLby7K+IQkQHQiTQ=
+		3GX/OX+G8yzZWJ046neHQRg10G4=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bMzwxSIRF3+BlnxbSn3GTTIUQJc=
+		EDdxLqFsrOvonyTHTvQWo3OUWsw=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZkM1/g7EPoKSFWSimPEHFApuFco=
+		fOuzgOA51S/aPv67d9cxkBcQcvg=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ysWrhIOsiPktvCbyBwqcZdtzwvY=
+		naIsk5DV0JcRQ/yLJU55VGZYw3w=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CwY4FsC6r12W80ILxeye/J7Beck=
+		Iqd6tRETFz6nbKPS/FXomhwk0Bs=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ozTSNn6AB+8zS4Hq1o67vg8+WJI=
+		JUdsZ7s4B29HOOC18YdUdBgo0VY=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CwY4FsC6r12W80ILxeye/J7Beck=
+		Iqd6tRETFz6nbKPS/FXomhwk0Bs=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h0cJFx689TYfbv8QwiY5QdK4G2k=
+		wmsj1i+2WwggMICHhxXdVPP6/cc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
-		/z27O70uldRqG/J8j+iqntU+ruA=
+		AuVYoRtvpO0Y70fvcQrVshk/cLQ=
 		</data>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -735,77 +735,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hvkQXjz07eOrOfPMJH9+kguPyMAWtl0FWCigbk3cDVg=
+			Iwuq6UD5NBemHptIpdgJ5Y8huasZVSWHTPewQ9yf6ks=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7S6/7GqyT7Gcnx1KsmYoNSAEMeLAqkL+FxZYgSyeDs=
+			G/yXl8CxXTdKMY6fFj9b4mM5MYaMIVaZEusrvt+pN6g=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u3PbDsB0ZWkBb+/qRzQS78szRijFLcFS+BaqZ//FWZY=
+			5X8UMQlPiz6oUDli1NcRCZBljonLebveui1bxweqwm0=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p6I2ZAp7iFO/YtVH3QwGuBhqkBsp3EvHzU/EN5fTpTE=
+			LP50YzzQk3WETkfPPKOoBYR7qlxWrbXq8CXKlPFmtUc=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u3PbDsB0ZWkBb+/qRzQS78szRijFLcFS+BaqZ//FWZY=
+			5X8UMQlPiz6oUDli1NcRCZBljonLebveui1bxweqwm0=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pgrN40JGmRB/7gf3YvsQnh9pGSUkkkLPKK0IF06wWvI=
+			xddxHSBljFi2e7PlON/q+0Ujd8Ey41MIt+OI9OI7Efs=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7S6/7GqyT7Gcnx1KsmYoNSAEMeLAqkL+FxZYgSyeDs=
+			G/yXl8CxXTdKMY6fFj9b4mM5MYaMIVaZEusrvt+pN6g=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8ACL+eYTS8WRjEEN26aOzc14BM2YMc3xtzFWx2EHp4=
+			2E4M5ORvmWstQIYDQF4qFtahQ1kLV0a5kvxal98B3OU=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xrH4JulkZpyFxkqztCROS5gZ4Pn10VPcR+pjMy18hmg=
+			Js+Yz3h3riaXTNMBOYrqlIVLbwymoixarcg/+61S5K0=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8ACL+eYTS8WRjEEN26aOzc14BM2YMc3xtzFWx2EHp4=
+			2E4M5ORvmWstQIYDQF4qFtahQ1kLV0a5kvxal98B3OU=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/mEMD+C6PeldPjmEonG0jP42D2GKSKy9eixY5YIEUcI=
+			DYhM94u1eoDPWf+B8gNoYci35VzqE+nw92pq//xFAO0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -819,7 +819,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QVwokhjSOi/pNST5EpxdR/4t95vP5GYbSIM2CAfzV7I=
+			cFC7bO9XFn31GunqMUepcl/bJ+hJ4xUBqbryOlwuu1Q=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
