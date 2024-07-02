@@ -1,6 +1,0 @@
-framework module TcpSockets {
-  umbrella header "TcpSockets-umbrella.h"
-
-  export *
-  module * { export * }
-}
