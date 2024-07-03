@@ -23,4 +23,14 @@ Pod::Spec.new do |s|
     'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
     'CLANG_CXX_LIBRARY' => 'libc++'
   }
+
+  # Add React Native dependencies
+  s.dependency 'React-Core'
+  s.dependency 'React-RCTActionSheet'
+  s.dependency 'React-RCTAnimation'
+  s.dependency 'React-RCTLinking'
+  s.dependency 'React-RCTSettings'
+  s.dependency 'React-RCTText'
+  s.dependency 'React-RCTVibration'
+  s.dependency 'React-RCTWebSocket'
 end
