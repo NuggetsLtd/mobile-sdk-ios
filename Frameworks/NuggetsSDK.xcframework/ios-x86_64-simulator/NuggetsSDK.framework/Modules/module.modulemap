@@ -1,4 +1,0 @@
-framework module NuggetsSDK {
-  header "NuggetsSDK-Swift.h"
-  requires objc
-}
