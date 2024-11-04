@@ -1,0 +1,6 @@
+framework module nuggetslife_react_native_jose {
+  umbrella header "nuggetslife-react-native-jose-umbrella.h"
+
+  export *
+  module * { export * }
+}

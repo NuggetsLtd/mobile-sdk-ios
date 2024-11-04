@@ -1,0 +1,6 @@
+framework module jail_monkey {
+  umbrella header "jail-monkey-umbrella.h"
+
+  export *
+  module * { export * }
+}

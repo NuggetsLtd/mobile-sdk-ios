@@ -1,0 +1,6 @@
+framework module nuggetslife_react_native_nuggets {
+  umbrella header "nuggetslife-react-native-nuggets-umbrella.h"
+
+  export *
+  module * { export * }
+}

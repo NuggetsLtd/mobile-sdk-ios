@@ -1,0 +1,11 @@
+framework module nuggetslife_react_native_nfc_reader {
+  umbrella header "nuggetslife-react-native-nfc-reader-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module nuggetslife_react_native_nfc_reader.Swift {
+  header "nuggetslife_react_native_nfc_reader-Swift.h"
+  requires objc
+}

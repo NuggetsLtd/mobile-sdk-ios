@@ -1,0 +1,25 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iproov_react_native"
+      },
+      {
+        "kind": "Import",
+        "name": "iProov",
+        "printedName": "iProov",
+        "declKind": "Import",
+        "moduleName": "iproov_react_native"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
