@@ -21,6 +21,10 @@
 	<dict>
 		<key>Headers/React-CoreModules-umbrella.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			rwV532qKB7S0ixbK11XhocujmxA=
+			</data>
 			<key>hash2</key>
 			<data>
 			vgTtBk1grBEkRWgmd4d2oIbU8DSkx0zItWVHBo1eyvU=
@@ -28,6 +32,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JLm756raZ2hYehKbd4mYG0KJacg=
+			</data>
 			<key>hash2</key>
 			<data>
 			/v6bSrs4dIO9bnsppaGCYNq8aU1Hworl5bkNbCD1A74=

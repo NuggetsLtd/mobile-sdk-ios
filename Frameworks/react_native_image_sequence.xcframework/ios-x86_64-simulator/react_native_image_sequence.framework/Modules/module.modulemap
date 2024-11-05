@@ -1,6 +1,0 @@
-framework module react_native_image_sequence {
-  umbrella header "react-native-image-sequence-umbrella.h"
-
-  export *
-  module * { export * }
-}

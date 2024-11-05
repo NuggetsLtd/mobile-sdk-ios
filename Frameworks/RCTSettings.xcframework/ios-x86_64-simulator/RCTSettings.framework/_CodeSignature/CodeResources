@@ -21,6 +21,10 @@
 	<dict>
 		<key>Headers/React-RCTSettings-umbrella.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			3MuMSUiaCNaF0eM3F+pvt5AD5fk=
+			</data>
 			<key>hash2</key>
 			<data>
 			tfeJvM6kipvLq1o9S47aCikzOjZ2lJx/ECSufmdvrfg=
@@ -28,6 +32,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5DyFYuyZ+xqrlqkJUp3lkCrOoOA=
+			</data>
 			<key>hash2</key>
 			<data>
 			0V+36+rqpq0TBuEWChTKI9x9+fUIE4oUvkd6cJa87Dg=

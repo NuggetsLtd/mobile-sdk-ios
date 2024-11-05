@@ -1,6 +1,0 @@
-framework module react_native_fingerprint_change {
-  umbrella header "react-native-fingerprint-change-umbrella.h"
-
-  export *
-  module * { export * }
-}
