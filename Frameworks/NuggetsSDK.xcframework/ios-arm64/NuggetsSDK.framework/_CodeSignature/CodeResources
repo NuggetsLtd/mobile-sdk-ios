@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
 		<data>
-		+Nowh4ZdAdb3Z7FYYNcE+dP70fE=
+		GatRmqpHEdDRT18phhfY6pn1oqc=
 		</data>
 		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		A1Xdzq1d6DH7iHX+4XN7/Nwki2w=
+		yc4oicWFQ3q32FfeD9eMtiuUGvk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1344,7 +1344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Hsqs7tFA901qp/sMAhENmycontAJFy8O+59yVHJ4gM=
+			P6C8LBZ0JV7l44nWD7rKrFKJ6j5bqRD7eWFtkgzlZpY=
 			</data>
 		</dict>
 		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
@@ -1491,7 +1491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fE8Xa01sjaRJjMSu7NgznNrATedJbsBCjvkdLrlgWbw=
+			OcGZ4ODipc/dVNxG2K4fFIBiL/hCs/vzKInPfZw9ZJ0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
