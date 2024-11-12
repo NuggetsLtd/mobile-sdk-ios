@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     package['name'] => ["Resources/*"],
   }
+  s.dependency "iProov"
 
   s.library = 'c++'
   s.xcconfig = {

@@ -12,18 +12,6 @@
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		R4w9Yn6kWzy3bsdpKnsV3t6Jqbw=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		GatRmqpHEdDRT18phhfY6pn1oqc=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		yyuOf2fZI7DF6IEKg2Ib1UUq/50=
-		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
 		5cnG3xAkNJ3Hrhn8vFOteGLqSw8=
@@ -106,7 +94,7 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		yc4oicWFQ3q32FfeD9eMtiuUGvk=
+		typrh4w2vnoTnjtlXSDomHLBqzM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1333,27 +1321,6 @@
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
 			</data>
 		</dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rWnTrErtrwABu4GTUiNkKVn32rx+bxLt+ZPbcUuwun8=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P6C8LBZ0JV7l44nWD7rKrFKJ6j5bqRD7eWFtkgzlZpY=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TpBQpGoGjpVSydYf7niyGhFVH5k6dw+31T0QFNmjhO0=
-			</data>
-		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1491,7 +1458,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcGZ4ODipc/dVNxG2K4fFIBiL/hCs/vzKInPfZw9ZJ0=
+			rnoEcuDOAMiEZPPcLHhL0VR/QPJs90F8SwyR1Lq1Myw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
