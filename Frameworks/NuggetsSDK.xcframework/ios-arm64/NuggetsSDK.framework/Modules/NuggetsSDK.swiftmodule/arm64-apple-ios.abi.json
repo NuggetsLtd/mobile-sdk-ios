@@ -23,9 +23,177 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "NuggetsSDKViewControllerDelegate",
+        "printedName": "NuggetsSDKViewControllerDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "nuggetsSDKDidFinish",
+            "printedName": "nuggetsSDKDidFinish()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP19nuggetsSDKDidFinishyyF",
+            "mangledName": "$s10NuggetsSDK0A25SDKViewControllerDelegateP19nuggetsSDKDidFinishyyF",
+            "moduleName": "NuggetsSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : NuggetsSDK.NuggetsSDKViewControllerDelegate>",
+            "sugared_genericSig": "<Self where Self : NuggetsSDK.NuggetsSDKViewControllerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nuggetsSDKDidFail",
+            "printedName": "nuggetsSDKDidFail(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "any Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP17nuggetsSDKDidFail4withys5Error_p_tF",
+            "mangledName": "$s10NuggetsSDK0A25SDKViewControllerDelegateP17nuggetsSDKDidFail4withys5Error_p_tF",
+            "moduleName": "NuggetsSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : NuggetsSDK.NuggetsSDKViewControllerDelegate>",
+            "sugared_genericSig": "<Self where Self : NuggetsSDK.NuggetsSDKViewControllerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP",
+        "mangledName": "$s10NuggetsSDK0A25SDKViewControllerDelegateP",
+        "moduleName": "NuggetsSDK",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "NuggetsSDKViewController",
         "printedName": "NuggetsSDKViewController",
         "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvp",
+            "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvp",
+            "moduleName": "NuggetsSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "ReferenceOwnership",
+              "AccessControl"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NuggetsSDKViewControllerDelegate",
+                        "printedName": "any NuggetsSDK.NuggetsSDKViewControllerDelegate",
+                        "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvg",
+                "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvg",
+                "moduleName": "NuggetsSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NuggetsSDKViewControllerDelegate",
+                        "printedName": "any NuggetsSDK.NuggetsSDKViewControllerDelegate",
+                        "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvs",
+                "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvs",
+                "moduleName": "NuggetsSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvM",
+                "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvM",
+                "moduleName": "NuggetsSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
           {
             "kind": "Function",
             "name": "loadView",
@@ -43,6 +211,38 @@
             "moduleName": "NuggetsSDK",
             "overriding": true,
             "objc_name": "loadView",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidDisappear",
+            "printedName": "viewDidDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@NuggetsSDK@objc(cs)NuggetsSDKViewController(im)viewDidDisappear:",
+            "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC16viewDidDisappearyySbF",
+            "moduleName": "NuggetsSDK",
+            "overriding": true,
+            "objc_name": "viewDidDisappear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",
