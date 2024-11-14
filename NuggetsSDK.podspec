@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
     package['name'] => ["Resources/*"],
   }
   s.dependency "iProov"
-  s.dependency "OpenSSL-Universal', '1.1.1900"
+  s.dependency "OpenSSL-Universal", "1.1.1900"
 
   s.library = 'c++'
   s.xcconfig = {
