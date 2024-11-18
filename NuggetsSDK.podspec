@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   }
   s.dependency "iProov"
   s.dependency "OpenSSL-Universal", "1.1.1900"
-  s.frameworks = ['MediaPlayer', 'Speech', 'JavaScriptCore', 'MobileCoreServices', 'NuggetsSDK', 'RCTSettings', 'RCTFabric','React','folly', 'yoga']
+  s.frameworks = ['MediaPlayer', 'Speech', 'JavaScriptCore', 'MobileCoreServices']
   
   s.library = 'c++'
   s.xcconfig = {
