@@ -22,6 +22,13 @@
         "moduleName": "NuggetsSDK"
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "NuggetsSDKViewControllerDelegate",
         "printedName": "NuggetsSDKViewControllerDelegate",
@@ -222,8 +229,8 @@
           },
           {
             "kind": "Function",
-            "name": "viewDidDisappear",
-            "printedName": "viewDidDisappear(_:)",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -238,11 +245,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@NuggetsSDK@objc(cs)NuggetsSDKViewController(im)viewDidDisappear:",
-            "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC16viewDidDisappearyySbF",
+            "usr": "c:@M@NuggetsSDK@objc(cs)NuggetsSDKViewController(im)viewWillDisappear:",
+            "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC17viewWillDisappearyySbF",
             "moduleName": "NuggetsSDK",
             "overriding": true,
-            "objc_name": "viewDidDisappear:",
+            "objc_name": "viewWillDisappear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",

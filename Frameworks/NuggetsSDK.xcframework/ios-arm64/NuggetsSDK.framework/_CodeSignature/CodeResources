@@ -12,6 +12,18 @@
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
+		<key>Frameworks/OpenSSL.framework/Info.plist</key>
+		<data>
+		R4w9Yn6kWzy3bsdpKnsV3t6Jqbw=
+		</data>
+		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
+		<data>
+		2oI4l9I+RcjsMAOohcIBQlUTuHE=
+		</data>
+		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
+		<data>
+		yyuOf2fZI7DF6IEKg2Ib1UUq/50=
+		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
 		5cnG3xAkNJ3Hrhn8vFOteGLqSw8=
@@ -30,7 +42,7 @@
 		</data>
 		<key>Headers/NuggetsSDK-Swift.h</key>
 		<data>
-		IiaUGEBSUKGq5Iy0TUGoOldRENc=
+		HolOH3t68lselFEn9jtKcmn73+A=
 		</data>
 		<key>Headers/NuggetsSDK.h</key>
 		<data>
@@ -78,11 +90,11 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		873CzIvNW1+7f9Ea22iXypkV1lo=
+		Lm9mSqVCwhQhUhs0GIpBe1qlDwk=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		4m79hXpVyb9k1Qsv2crNBEfKw7c=
+		0IidyzTyXd7v55xg32RmedV0ij0=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -90,11 +102,11 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		4m79hXpVyb9k1Qsv2crNBEfKw7c=
+		0IidyzTyXd7v55xg32RmedV0ij0=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5myBS8QXJx8K3TiDv4LQGwO6uLE=
+		wXtNwRFc+TmfL8L12GnsDsN3sVU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1321,6 +1333,27 @@
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
 			</data>
 		</dict>
+		<key>Frameworks/OpenSSL.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rWnTrErtrwABu4GTUiNkKVn32rx+bxLt+ZPbcUuwun8=
+			</data>
+		</dict>
+		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FipSoiUVdiw950lTJZXuW5WVuTkIBMrLPP3gnjQflR0=
+			</data>
+		</dict>
+		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TpBQpGoGjpVSydYf7niyGhFVH5k6dw+31T0QFNmjhO0=
+			</data>
+		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1353,7 +1386,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eNXg6Lpdi4LChK/88InoAxnuw52iPSDVLeb02iPy+h4=
+			qP8j+iqxC/08wMtaOuNOnSoNGeEmt2/PTs40a+wrgp0=
 			</data>
 		</dict>
 		<key>Headers/NuggetsSDK.h</key>
@@ -1430,14 +1463,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OSmV882IWB1glyAp261FTnZNka8hHevDi9T3eDOSQJ8=
+			wZlJXia4/t8/gUiyz+E5s3MjsjBJxBdYRqP7H41L+C8=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pW7d2+N+GEKt53iFMELvPpJE4pD5Z27sI3ywZeyeD1w=
+			jHEwx+E7dnF28E3EFmcjErqZyv06+m1jhAdhOsENFf4=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1451,14 +1484,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pW7d2+N+GEKt53iFMELvPpJE4pD5Z27sI3ywZeyeD1w=
+			jHEwx+E7dnF28E3EFmcjErqZyv06+m1jhAdhOsENFf4=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M8iBJbr12gAZ/dT+AE2Hu/s8nPi1I/9ONIOU/INHQ/s=
+			G3NNdwnpu5BKQC6AxaVgIbVVxf2OE7++0U9+5lEvfEY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

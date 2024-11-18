@@ -5,6 +5,7 @@ import Foundation
 @_exported import NuggetsSDK
 import React
 import Swift
+import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
@@ -15,8 +16,8 @@ public protocol NuggetsSDKViewControllerDelegate : AnyObject {
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class NuggetsSDKViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: (any NuggetsSDK.NuggetsSDKViewControllerDelegate)?
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
+  @objc deinit
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
 }
