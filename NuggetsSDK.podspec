@@ -19,12 +19,11 @@ Pod::Spec.new do |s|
   }
   s.dependency "iProov"
   s.dependency "OpenSSL-Universal", "1.1.1900"
-  s.frameworks = ['MediaPlayer', 'Speech', 'JavaScriptCore', 'MobileCoreServices']
-
+  s.frameworks = ['MediaPlayer', 'Speech', 'JavaScriptCore', 'MobileCoreServices', 'NuggetsSDK', 'RCTSettings', 'RCTFabric','React','folly', 'yoga']
+  
   s.library = 'c++'
   s.xcconfig = {
     'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
-    'CLANG_CXX_LIBRARY' => 'libc++',
-    'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/NuggetsSDK/Frameworks'
+    'CLANG_CXX_LIBRARY' => 'libc++'
   }
 end
