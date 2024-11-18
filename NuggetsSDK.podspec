@@ -24,6 +24,7 @@ Pod::Spec.new do |s|
   s.library = 'c++'
   s.xcconfig = {
     'CLANG_CXX_LANGUAGE_STANDARD' => 'c++11',
-    'CLANG_CXX_LIBRARY' => 'libc++'
+    'CLANG_CXX_LIBRARY' => 'libc++',
+    'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/NuggetsSDK/Frameworks'
   }
 end
