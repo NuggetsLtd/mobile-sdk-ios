@@ -12,18 +12,6 @@
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		R4w9Yn6kWzy3bsdpKnsV3t6Jqbw=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		2oI4l9I+RcjsMAOohcIBQlUTuHE=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		yyuOf2fZI7DF6IEKg2Ib1UUq/50=
-		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
 		5cnG3xAkNJ3Hrhn8vFOteGLqSw8=
@@ -1331,27 +1319,6 @@
 			<key>hash2</key>
 			<data>
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rWnTrErtrwABu4GTUiNkKVn32rx+bxLt+ZPbcUuwun8=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FipSoiUVdiw950lTJZXuW5WVuTkIBMrLPP3gnjQflR0=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TpBQpGoGjpVSydYf7niyGhFVH5k6dw+31T0QFNmjhO0=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
