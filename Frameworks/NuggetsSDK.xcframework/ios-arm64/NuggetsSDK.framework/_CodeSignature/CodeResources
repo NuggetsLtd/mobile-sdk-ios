@@ -12,6 +12,14 @@
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
+		<key>Frameworks/CoreNFC.framework/CoreNFC</key>
+		<data>
+		xEcTYzKlxHOjIOq0E4UgUXMJ7cc=
+		</data>
+		<key>Frameworks/CoreNFC.framework/_CodeSignature/CodeResources</key>
+		<data>
+		HK2c3QmhpcYSZRgkvpUe5YHi6gA=
+		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
 		5cnG3xAkNJ3Hrhn8vFOteGLqSw8=
@@ -1323,6 +1331,20 @@
 			<key>hash2</key>
 			<data>
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
+			</data>
+		</dict>
+		<key>Frameworks/CoreNFC.framework/CoreNFC</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IBkYEeZYmqniAGluoUnIEJJsAQq8Az99Ts5UVMT2+c4=
+			</data>
+		</dict>
+		<key>Frameworks/CoreNFC.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PentQquS9mssYDO1nM+kQbHQUMMZ2u61V1UbTaUTFH4=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
