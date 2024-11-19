@@ -1296,6 +1296,10 @@
 		<data>
 		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
 		</data>
+		<key>masterList.pem</key>
+		<data>
+		5cBvWkViftgNLB5rNuBeffwEGSU=
+		</data>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
 		<data>
 		8TvRHb7Mn2J0NwVbzS5CROEH0+U=
@@ -2722,6 +2726,13 @@
 			<key>hash2</key>
 			<data>
 			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
+			</data>
+		</dict>
+		<key>masterList.pem</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YqreDTLezJuUXbtzN8aNNSL6iqay7xi6PoTp/vq4fws=
 			</data>
 		</dict>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
