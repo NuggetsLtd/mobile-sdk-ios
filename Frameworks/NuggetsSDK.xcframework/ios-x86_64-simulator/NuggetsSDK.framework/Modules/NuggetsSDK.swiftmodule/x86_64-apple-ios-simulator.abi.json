@@ -9,10 +9,7 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "NuggetsSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "NuggetsSDK"
       },
       {
         "kind": "Import",
