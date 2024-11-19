@@ -16,6 +16,40 @@
       },
       {
         "kind": "Import",
+        "name": "NFCPassportReader",
+        "printedName": "NFCPassportReader",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "React",
+        "printedName": "React",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "NFCPassportReader",
+        "printedName": "NFCPassportReader",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "React",
         "printedName": "React",
         "declKind": "Import",
