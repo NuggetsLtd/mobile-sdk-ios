@@ -12,14 +12,6 @@
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
-		<key>Frameworks/CoreNFC.framework/CoreNFC</key>
-		<data>
-		yJ+C4IJfZG7rDBI2e0ctkhzn/mA=
-		</data>
-		<key>Frameworks/CoreNFC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		HK2c3QmhpcYSZRgkvpUe5YHi6gA=
-		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
 		fqK9d10Xcoh03OxLfuAZNXlkR9w=
@@ -102,7 +94,7 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zjJC9hq0JzcWreHveDlrEIw2MG8=
+		4jAfu/ISoBbV9KSGjmZ81kQiLzU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1333,20 +1325,6 @@
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
 			</data>
 		</dict>
-		<key>Frameworks/CoreNFC.framework/CoreNFC</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZZCx7XLSuhwZgU0mW60SMXgeahcE44JlTE0yLP3EvWA=
-			</data>
-		</dict>
-		<key>Frameworks/CoreNFC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PentQquS9mssYDO1nM+kQbHQUMMZ2u61V1UbTaUTFH4=
-			</data>
-		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1484,7 +1462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JFtCJmbqcS09wKzxWqI+zJbAs0sFtmroC2po/ATeF/Y=
+			n79mtlmKqhzMiB7K4IpuBYfp+JPOWi4RDHBOYLiPeKA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
