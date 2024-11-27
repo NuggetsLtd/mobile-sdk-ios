@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NFCPassportReader-Swift.h</key>
 		<data>
-		XzaTyEM5vFIvq8gv3k37pWH9v0k=
+		gdrpqUeG5z5hfxiMCufO0QDuyNo=
 		</data>
 		<key>Headers/NFCPassportReader-umbrella.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uQx/isppRyRomTpjC98lnbPqB04=
+		qsOaLq6uex6pz1rYQiHOqjyPeWQ=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mOlnPuFs248TNgLoPfCCG12o1rc=
+		3ZJ7gXzF49F8O3U3JrUrew8BckU=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AdO6ifv9xHswHgBANrjLJx07Qy8=
+		bDg3crFoKXRMUplBl3HC/uMMwQo=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		HTW5g2iXZ9Vky4+DxVYbS9N2EXs=
+		w38bezxfvcfgAjLNHfrEwneLZqQ=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AdO6ifv9xHswHgBANrjLJx07Qy8=
+		bDg3crFoKXRMUplBl3HC/uMMwQo=
 		</data>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bGjh3MrXQ6z1ipN4K/926r9pAss=
+		Neml+0H+JRgSZ++x3uE+wMUPbFg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XzaTyEM5vFIvq8gv3k37pWH9v0k=
+			gdrpqUeG5z5hfxiMCufO0QDuyNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			KWCrlrXkT8LxwbXO2j4y7O3UOegjlr1IIbvwS9gmM38=
+			R4w4DHE2l+VJc3rUhg6nLZGsy909BfGhvWm4U65y7uQ=
 			</data>
 		</dict>
 		<key>Headers/NFCPassportReader-umbrella.h</key>
@@ -69,55 +69,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mOlnPuFs248TNgLoPfCCG12o1rc=
+			3ZJ7gXzF49F8O3U3JrUrew8BckU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8KmWpUyguHMDdogjAnm0F01sVKHgaGXNbOL/2q8uDw0=
+			Z2KwSasMYmca9lbz3RQKcEAOLrWvsz+hK/M7RKQ7VpA=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AdO6ifv9xHswHgBANrjLJx07Qy8=
+			bDg3crFoKXRMUplBl3HC/uMMwQo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0CoLR2atrYshvHwOHJHnHyfe5xrJ8SKsC3KWxLAK/ic=
+			vwypS/VUdwDNogcQ27I8+Qnq5AP4hipmDAnT9x2cZSY=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HTW5g2iXZ9Vky4+DxVYbS9N2EXs=
+			w38bezxfvcfgAjLNHfrEwneLZqQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			jxRCIOm4R6R2b7qL0Hxd+Ars8ln03QD0HiWlwEHBynw=
+			G5Gx6Msu6NBk4H/y0x2ydwSzLdpqYRwfWX5Zi6HjqbU=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AdO6ifv9xHswHgBANrjLJx07Qy8=
+			bDg3crFoKXRMUplBl3HC/uMMwQo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0CoLR2atrYshvHwOHJHnHyfe5xrJ8SKsC3KWxLAK/ic=
+			vwypS/VUdwDNogcQ27I8+Qnq5AP4hipmDAnT9x2cZSY=
 			</data>
 		</dict>
 		<key>Modules/NFCPassportReader.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bGjh3MrXQ6z1ipN4K/926r9pAss=
+			Neml+0H+JRgSZ++x3uE+wMUPbFg=
 			</data>
 			<key>hash2</key>
 			<data>
-			b1cE0OT1TAZjoOEkPzN7Pmv8Z+ewlFAt00U1oByPsSs=
+			zXWEEgDLgXo/2nlHvMhDdrKg3Cu9680fI7wmD3iAEcY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

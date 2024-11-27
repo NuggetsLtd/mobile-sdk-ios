@@ -6,6 +6,16 @@
     "children": [
       {
         "kind": "Import",
+        "name": "NFCPassportReader",
+        "printedName": "NFCPassportReader",
+        "declKind": "Import",
+        "moduleName": "NuggetsSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -27,16 +37,6 @@
         "printedName": "React",
         "declKind": "Import",
         "moduleName": "NuggetsSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "NFCPassportReader",
-        "printedName": "NFCPassportReader",
-        "declKind": "Import",
-        "moduleName": "NuggetsSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -101,7 +101,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Error",
-                "printedName": "any Swift.Error",
+                "printedName": "Swift.Error",
                 "usr": "s:s5ErrorP"
               }
             ],
@@ -139,7 +139,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "WeakStorage",
-                "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?"
+                "printedName": "NuggetsSDK.NuggetsSDKViewControllerDelegate?"
               }
             ],
             "declKind": "Var",
@@ -147,9 +147,9 @@
             "mangledName": "$s10NuggetsSDK0A17SDKViewControllerC8delegateAA0acD8Delegate_pSgvp",
             "moduleName": "NuggetsSDK",
             "declAttributes": [
+              "Custom",
               "HasInitialValue",
               "HasStorage",
-              "Custom",
               "ReferenceOwnership",
               "AccessControl"
             ],
@@ -164,12 +164,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?",
+                    "printedName": "NuggetsSDK.NuggetsSDKViewControllerDelegate?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "NuggetsSDKViewControllerDelegate",
-                        "printedName": "any NuggetsSDK.NuggetsSDKViewControllerDelegate",
+                        "printedName": "NuggetsSDK.NuggetsSDKViewControllerDelegate",
                         "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP"
                       }
                     ],
@@ -196,12 +196,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "(any NuggetsSDK.NuggetsSDKViewControllerDelegate)?",
+                    "printedName": "NuggetsSDK.NuggetsSDKViewControllerDelegate?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "NuggetsSDKViewControllerDelegate",
-                        "printedName": "any NuggetsSDK.NuggetsSDKViewControllerDelegate",
+                        "printedName": "NuggetsSDK.NuggetsSDKViewControllerDelegate",
                         "usr": "s:10NuggetsSDK0A25SDKViewControllerDelegateP"
                       }
                     ],
@@ -469,5 +469,734 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 339,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 390,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 442,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 657,
+      "length": 80,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 666,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 685,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 691,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 711,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 717,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 957,
+      "length": 3,
+      "value": "\"<\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "Dictionary",
+      "offset": 1135,
+      "length": 443,
+      "value": "[(\"0\", \"0\"), (\"1\", \"1\"), (\"2\", \"2\"), (\"3\", \"3\"), (\"4\", \"4\"), (\"5\", \"5\"), (\"6\", \"6\"), (\"7\", \"7\"), (\"8\", \"8\"), (\"9\", \"9\"), (\"<\", \"0\"), (\" \", \"0\"), (\"A\", \"10\"), (\"B\", \"11\"), (\"C\", \"12\"), (\"D\", \"13\"), (\"E\", \"14\"), (\"F\", \"15\"), (\"G\", \"16\"), (\"H\", \"17\"), (\"I\", \"18\"), (\"J\", \"19\"), (\"K\", \"20\"), (\"L\", \"21\"), (\"M\", \"22\"), (\"N\", \"23\"), (\"O\", \"24\"), (\"P\", \"25\"), (\"Q\", \"26\"), (\"R\", \"27\"), (\"S\", \"28\"), (\"T\", \"29\"), (\"U\", \"30\"), (\"V\", \"31\"), (\"W\", \"32\"), (\"X\", \"33\"), (\"Y\", \"34\"), (\"Z\", \"35\")]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1606,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1624,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "Array",
+      "offset": 1660,
+      "length": 9,
+      "value": "[7, 3, 1]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1746,
+      "length": 6,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1751,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1810,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1910,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1915,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1958,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2237,
+      "length": 20,
+      "value": "\"passportreader.log\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2512,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2572,
+      "length": 18,
+      "value": "\"ERROR - \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2589,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 523,
+      "length": 16,
+      "value": "\"documentNumber\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 568,
+      "length": 13,
+      "value": "\"dateOfBirth\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 586,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 610,
+      "length": 14,
+      "value": "\"dateOfExpiry\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 673,
+      "length": 76,
+      "value": "\"Scanning passport with document number: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 1,
+      "value": "\", DOB: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 735,
+      "length": 1,
+      "value": "\", DOE: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 748,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1192,
+      "length": 67,
+      "value": "\"Entered run method with docNo: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1232,
+      "length": 1,
+      "value": "\", dob: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1245,
+      "length": 1,
+      "value": "\", doe: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1258,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1332,
+      "length": 79,
+      "value": "\"Searching for masterList.pem in bundle at path: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1410,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1477,
+      "length": 12,
+      "value": "\"masterList\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1506,
+      "length": 5,
+      "value": "\"pem\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1534,
+      "length": 49,
+      "value": "\"Error: Master list PEM file not found in bundle\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1600,
+      "length": 14,
+      "value": "\"missing_file\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1616,
+      "length": 57,
+      "value": "\"Master list PEM file is missing in the framework bundle\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1711,
+      "length": 60,
+      "value": "\"Successfully found masterList.pem at URL: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1770,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1925,
+      "length": 30,
+      "value": "\"Generated MRZ key: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 1954,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2063,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2196,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2432,
+      "length": 48,
+      "value": "\"Hold your iPhone near an NFC enabled passport.\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2585,
+      "length": 53,
+      "value": "\"Attempting to read passport with MRZ key: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2637,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2863,
+      "length": 44,
+      "value": "\"Successfully scanned passport: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 2906,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3065,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3102,
+      "length": 52,
+      "value": "\"Successfully dumped security data: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3153,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3223,
+      "length": 11,
+      "value": "\"firstName\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3272,
+      "length": 10,
+      "value": "\"lastName\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3319,
+      "length": 8,
+      "value": "\"gender\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3362,
+      "length": 8,
+      "value": "\"issuer\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3415,
+      "length": 13,
+      "value": "\"nationality\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3468,
+      "length": 7,
+      "value": "\"photo\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3499,
+      "length": 7,
+      "value": "\"width\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3546,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3569,
+      "length": 8,
+      "value": "\"height\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3618,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3641,
+      "length": 8,
+      "value": "\"base64\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3704,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3733,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3786,
+      "length": 46,
+      "value": "\"Processed passport result: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3831,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 3939,
+      "length": 7,
+      "value": "\"photo\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4019,
+      "length": 8,
+      "value": "\"base64\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4098,
+      "length": 8,
+      "value": "\"base64\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4110,
+      "length": 39,
+      "value": "\"data:image\/jpeg;base64,\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4148,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4185,
+      "length": 7,
+      "value": "\"photo\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4236,
+      "length": 50,
+      "value": "\"Updated base64 image for photo: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4285,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4384,
+      "length": 14,
+      "value": "\"passportData\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4432,
+      "length": 14,
+      "value": "\"securityData\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4493,
+      "length": 39,
+      "value": "\"Final result prepared: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4531,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4603,
+      "length": 59,
+      "value": "\"Error during passport scan: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4661,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/PassportScanner.swift",
+      "kind": "StringLiteral",
+      "offset": 4683,
+      "length": 9,
+      "value": "\"failure\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 510,
+      "length": 39,
+      "value": "\"NuggetsSDK.bundle\/nuggetssdk.jsbundle\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 42,
+      "value": "\"Failed to initialize React Native bridge\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1093,
+      "length": 12,
+      "value": "\"NuggetsSDK\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "Dictionary",
+      "offset": 1126,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1275,
+      "length": 15,
+      "value": "\"Unknown error\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1309,
+      "length": 43,
+      "value": "\"React Native fatal error: \""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1351,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1564,
+      "length": 13,
+      "value": "\"ReactNative\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1609,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1674,
+      "length": 15,
+      "value": "\"Unknown error\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1771,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2147,
+      "length": 61,
+      "value": "\"NuggetsSDKViewController deallocated and bridge invalidated\""
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2392,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/distiller\/project\/ios\/NuggetsSDK\/NuggetsSDKViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2460,
+      "length": 3,
+      "value": "0.5"
+    }
+  ]
 }
