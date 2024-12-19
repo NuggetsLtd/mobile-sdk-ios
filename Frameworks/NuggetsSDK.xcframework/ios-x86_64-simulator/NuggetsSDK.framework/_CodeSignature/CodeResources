@@ -6,7 +6,7 @@
 	<dict>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		sdftPH2fjnd2wfIiv7JNsYXE96s=
+		evNkXPJO+4PkAaSlOGb+XXIctEo=
 		</data>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
-		HqZqc/bzNNaIRzVu/M4saHubW1A=
+		fqK9d10Xcoh03OxLfuAZNXlkR9w=
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<data>
-		XWB45fZ+smPi31aLiN5PcbbrKo0=
+		GWBi6Z2v/j89TLj4KoMv5EqVwDY=
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/NuggetsSDK-Swift.h</key>
 		<data>
-		3GEZpXfprHbth7RrH+VhdmRFq5M=
+		0TS7ts37ehIaepwz1YQCOINTdr4=
 		</data>
 		<key>Headers/NuggetsSDK.h</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		psIBoT/XaVB7uu1Xqmg5wFxSK3s=
+		tr7thdXI7XOm66ZtVJHlqPtdz6s=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		ge70nLcG7Yj2qyVeNMYCRmqWo4g=
+		XZcrdS/q/ma8CKoOq5QF9hajAcw=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -78,23 +78,23 @@
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RIH80btVbz9BomwMF90pLawny7Q=
+		ndjtVbnuB4W55X+uFMzMQ+3Jflw=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nzZlQOyjXt2KOk33l+/RkqzGgTw=
+		7Z6jOd28ec2Re8Ql8pFHpJyOYSo=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		JUdsZ7s4B29HOOC18YdUdBgo0VY=
+		TQj0ByZZx795K5f5XlNwhgrcXdY=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nzZlQOyjXt2KOk33l+/RkqzGgTw=
+		7Z6jOd28ec2Re8Ql8pFHpJyOYSo=
 		</data>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5DbubLXdVkfyhHBxmBEm89LKE/c=
+		foYB2H0yOwKuv+8/Q+VBWjzj2fE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		D8BTpPDizOxmHv4w/7guao5Deg4=
+		qzMYTqi8+UmOPxsnJvoCIxUoCaw=
 		</data>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>QBImagePicker.bundle/Info.plist</key>
 		<data>
-		XNFAoz47h8QFqRLpFeVv7+dtZ/g=
+		UwDf90EVhAa3OlC3ccEYrxZuBdw=
 		</data>
 		<key>QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist</key>
 		<data>
@@ -327,7 +327,7 @@
 		</dict>
 		<key>RCTI18nStrings.bundle/Info.plist</key>
 		<data>
-		7HO3ZbPtg1RvrEZgDzQaXMXN98Q=
+		ilkR0M6GiUumdhyz3g4z2N1ggmw=
 		</data>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
 		<dict>
@@ -988,7 +988,7 @@
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
 		<data>
-		135oVMrK99BQa4NPR4qiPw3tnOE=
+		/deq5j5+BDtDN2UR7xu5U4JXBIA=
 		</data>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -996,19 +996,39 @@
 		</data>
 		<key>RNImageCropPickerPrivacyInfo.bundle/Info.plist</key>
 		<data>
-		k3nQ0MhrJzKC5pyw8fI37euWyPs=
+		VqLATPucvOgH3IhYkAcQe5Q5/6g=
 		</data>
 		<key>RNImageCropPickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		6nz0Rfll858CIDce0fjtnCf/TYo=
 		</data>
+		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		pamn4eMJ3tWSAUj5f1i4XBzNgJ8=
+		</data>
+		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6nz0Rfll858CIDce0fjtnCf/TYo=
+		</data>
 		<key>RNPermissionsPrivacyInfo.bundle/Info.plist</key>
 		<data>
-		0gaZ6qA6VoN8yDKCrV1hnBkKCxQ=
+		zmXdP9qxa/OAQSqqXMYweml99eg=
 		</data>
 		<key>RNPermissionsPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
+		</data>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		+Iv3C00NLF0Sngdgqhp0ye6wgfU=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
@@ -1021,7 +1041,7 @@
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/Info.plist</key>
 		<data>
-		0NaoRpME1Bx8Z73mgxFK5PBIFRY=
+		6+g17RYKgztQQjXJ8pB1UFkSsJ4=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1290,7 +1310,7 @@
 		</dict>
 		<key>TrustKit.bundle/Info.plist</key>
 		<data>
-		ZRquhnvYdbgjTOsAfIjBCKXecvU=
+		wMD5ijpC3X2chts75bLVTLJ3bPk=
 		</data>
 		<key>TrustKit.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1302,7 +1322,7 @@
 		</data>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
 		<data>
-		+qlMLrd3BdYGRkCBkbDImncrXsc=
+		kKro5caRhVWFst8q6X8yPNQjIoE=
 		</data>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1315,7 +1335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z5e3DTy2Q10MqtrYBCStDZC1AN+4Z6myQz6niMkVU+4=
+			qDLX9JJsPD1GODyAKrqGSrQ+fbEkh3w7IgOkh+8PtAA=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1329,7 +1349,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6IpP+ZNR/w/Z1q+ynNyMoyU4w+pkqql9GXInJotgIbY=
+			pvoy/jOjO4sh9G4uvpHhsjZWJGgMGNc/FiXDgq6Flxo=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1343,7 +1363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6JR2S0nwS82tkwT+mkPYHWVxdCzVpldCjPBqXLfWNE=
+			29Qi+0aKXzpe/U0kxY+PShmn9zIuCGGqJ8+4BKBWwWc=
 			</data>
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1357,7 +1377,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UL6T+mmJg6lA9sUBUarZrWjtgq5cWUNO30AugGKMI30=
+			UiWmQdKShC8lpwkS+JzqDlv5LroWks1Zm5zKcEPiME8=
 			</data>
 		</dict>
 		<key>Headers/NuggetsSDK.h</key>
@@ -1371,7 +1391,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+JVXfuuhpaxmx1Qj9HQoC/zaHpbYljZeP6yIGG/LQ7I=
+			OwmLgslneN+1K5ySRBhbmAjUnCU9Vx2QjxEW6+MK2WM=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1434,35 +1454,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QMWUj6XBu21/iyrtKer3L/KCWmJnP7N2Ibbt12Ls1Nk=
+			/y/RQNHR/qfB7vYqKUd/RapxR0Oqih9ldzRu09cv7hY=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wgbhPbW8Ah2KtpjtzpJSD8h0+XHapimNnAI9ev5PUTg=
+			J02mkhwroINBYClFctdiW9yxqqe7FD8vQkIKlfqu70U=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Js+Yz3h3riaXTNMBOYrqlIVLbwymoixarcg/+61S5K0=
+			hTVTRIKysRyHaZ7LzEhD1AMGfQLy9rWX2aVxb2ZhMkI=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wgbhPbW8Ah2KtpjtzpJSD8h0+XHapimNnAI9ev5PUTg=
+			J02mkhwroINBYClFctdiW9yxqqe7FD8vQkIKlfqu70U=
 			</data>
 		</dict>
 		<key>Modules/NuggetsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L8U2vweu1mCQfFN7x14tUGSYK17cx+DL8MbFScoXcVo=
+			bQyc0occ1oDoCIlfpb1e7mwG09mZzf0WxmUWyVPIpmQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1476,7 +1496,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vqi+2vhIabgA81qYJvKOztkLJhmdiHcB68olvv14XAQ=
+			lljz8DVfVQrz2O0TXFdRGZ/Qbh/wBu0MtU2ZiONb+tw=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -1490,7 +1510,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y6UvJH1fdb+X9jvb/7EJYWc+/aHvv/Q2lbexAKRDFK0=
+			a+frvTBZOmnPNEH84SCRIjTVIpN1ui/hVVWtCeyNC/I=
 			</data>
 		</dict>
 		<key>QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist</key>
@@ -1728,7 +1748,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aPRE4DQTDd47a1VRaBTiPpkKyzjuAR+g0LXJKctcjco=
+			qRTCs97MrFNx41hJGCMdFOG08tp90n990nakBSiXOTo=
 			</data>
 		</dict>
 		<key>RCTI18nStrings.bundle/ar.lproj/Localizable.strings</key>
@@ -2392,7 +2412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			090qdiN5ZeKaP9wpRGxaGlzS1AStq/DQaNT+vCcu4es=
+			fX+TX+Q9VzVmkzJEgtvHz54DOe14Ltz3NO80cE7cvCo=
 			</data>
 		</dict>
 		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
@@ -2406,10 +2426,24 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yV6Z5B0bCPRdlH+9fZMCq4B7ZlNGFkm2YhgHDQezee8=
+			zXPIOU6/oVuP2EiZ25OB1fza1dHnmTaXPPQiWwIL8P0=
 			</data>
 		</dict>
 		<key>RNImageCropPickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M8KUfxZScv94juAbDXWMlhWxCn65Sxan3IqlDpFX/YQ=
+			</data>
+		</dict>
+		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ohYwVmkFIs/26JV4ud9P5oMP1MYd+8aQTL44LmP4saQ=
+			</data>
+		</dict>
+		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -2420,7 +2454,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MVe0s3Qmda8Mm03uryOB4sh/aJ/dOMMKrOAh+KoNjHo=
+			VQzJzSRuwoIiPiMtyW8g0sZqbS2LTF+Vyiv23JjpfL4=
 			</data>
 		</dict>
 		<key>RNPermissionsPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
@@ -2428,6 +2462,27 @@
 			<key>hash2</key>
 			<data>
 			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/QhvbN8DesDW7zjUh/U8bI05rdcBrKPtxD8D6y31iQU=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
@@ -2443,7 +2498,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mrF6azGSXr7BKd4wRjGpjkV5CpZXpuhryATK4B84R44=
+			hOf5ddUthW7nv4nvcwSOeE+Rb5svxexZovpWcxcSGPs=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/PrivacyInfo.xcprivacy</key>
@@ -2718,7 +2773,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ptom3N8ipud3jnxwc29X+UpQT+iydqm/eTq0SeZb3e8=
+			iQNNzmZFP9mWdA452XeMzniCL+RT3JQQy/yBbB8PE3s=
 			</data>
 		</dict>
 		<key>TrustKit.bundle/PrivacyInfo.xcprivacy</key>
@@ -2739,7 +2794,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qkiCa6usRl2yrG/NkqWyfc2heQxBnuK7cdmU0eulF24=
+			qsHdA9bIT4196+tW5si/odx1fGUjTXaJ+Be8qQ/qxho=
 			</data>
 		</dict>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
