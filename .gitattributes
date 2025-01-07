@@ -1,3 +1,5 @@
 Frameworks/React_Fabric.xcframework/ios-arm64_x86_64-simulator/React_Fabric.framework/React_Fabric filter=lfs diff=lfs merge=lfs -text
 Frameworks/React_Fabric.xcframework/ios-arm64/React_Fabric.framework/React_Fabric filter=lfs diff=lfs merge=lfs -text
 Frameworks/RCTFabric.xcframework/ios-arm64_x86_64-simulator/RCTFabric.framework/RCTFabric filter=lfs diff=lfs merge=lfs -text
+Frameworks/NuggetsSDK.xcframework/ios-arm64/NuggetsSDK.framework/NuggetsSDK filter=lfs diff=lfs merge=lfs -text
+Frameworks/libReact-Fabric.xcframework/ios-arm64_x86_64-simulator/libReact-Fabric.a filter=lfs diff=lfs merge=lfs -text
